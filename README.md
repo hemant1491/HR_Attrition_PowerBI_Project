@@ -27,10 +27,10 @@ Here’s what’s under the hood:
 
 ## What We Can Learn
 
-✅ Younger employees in lower-paying roles are most likely to leave  
-✅ Low job satisfaction is a big red flag  
-✅ Early exits (in Year 1) show onboarding and culture gaps  
-✅ Sales & technical teams may need focused retention strategies  
+- Younger employees in lower-paying roles are most likely to leave  
+- Low job satisfaction is a big red flag  
+- Early exits (in Year 1) show onboarding and culture gaps  
+- Sales & technical teams may need focused retention strategies  
 
 ---
 
