@@ -2,14 +2,22 @@
 
 ![HR_Attrition_Analysis_Dashoard](https://github.com/user-attachments/assets/e973abae-fb11-4c57-8bb8-ab8d6c0a5fa1)
 
-The overall attrition rate stands at 16%, with 237 employees having left the company out of a total workforce of 1,470. A closer look shows that younger employees, particularly those aged between 25 and 35, account for the majority of these exits. This suggests that early-career professionals may be leaving due to unmet expectations, lack of growth, or better external opportunities.
+This analysis was developed in Power BI, using strong data modeling to integrate multiple HR attributes and custom DAX measures to calculate attrition rates, salary insights, and employee segmentation. The report covers 1,470 employees, with an overall attrition rate of 16%.
 
-In terms of job roles, attrition is most common among Laboratory Technicians, Sales Executives, and Research Scientists. These positions may involve higher pressure, lower satisfaction, or limited advancement paths.
+Key findings include:
 
-Salary also plays a clear role. Most employees who left were earning less than ₹5,000 per month, indicating that compensation is a key factor driving attrition. On top of that, job satisfaction scores among those who left tend to be low, which reinforces the idea that dissatisfaction with the work environment or responsibilities is contributing to turnover.
+Young professionals (ages 25–35) account for the majority of attrition, indicating early-career dissatisfaction or external opportunities.
 
-Another important trend is the timing of departures. A significant number of employees leave within their first year, highlighting potential issues with onboarding, role clarity, or cultural fit. There’s also a noticeable spike around the ten-year mark, possibly pointing to stagnation or missed promotion opportunities over time.
+Job roles with highest attrition include Laboratory Technician, Sales Executive, and Research Scientist—suggesting role-specific challenges or stress.
 
-When it comes to education fields, most attrition is seen among those with backgrounds in Life Sciences and Medical studies, which may reflect the company's workforce composition or specific challenges in those roles.
+Employees who left typically earned less than ₹5,000/month, highlighting low compensation as a major factor.
 
-Overall, the data points to a combination of low satisfaction, limited career growth, heavy workload, and low pay as the main reasons behind employee attrition.
+Low job satisfaction (scores 1 and 2) is strongly associated with attrition, pointing to engagement or management issues.
+
+A significant spike in attrition occurs in the first year of employment, suggesting onboarding or role clarity concerns.
+
+Attrition is also influenced by workload factors, such as employees working overtime showing significantly higher turnover rates.
+
+Life Sciences and Medical education backgrounds contribute to the highest attrition, which could reflect either company workforce composition or domain-specific pressures.
+
+The Power BI dashboard enables interactive filtering by job role, age, gender, and salary, providing HR teams with actionable insights to target retention strategies and improve employee engagement.
