@@ -1,7 +1,7 @@
 # HR Attrition Analysis Dashboard
 This project provides a comprehensive analysis of employee attrition using an interactive dashboard. The dashboard visualizes key HR metrics and insights derived from employee data, enabling organizations to identify trends, potential issues, and opportunities for retention improvement.The HR Attrition Analysis Dashboard presents a visual breakdown of employee attrition patterns across multiple dimensions, helping HR professionals to make data-driven decisions.
 
-![HR_Attrition_Analysis_Dashoard](https://github.com/user-attachments/assets/e973abae-fb11-4c57-8bb8-ab8d6c0a5fa1)
+![HR_Attrition_Analysis_Dashoard](hr_attritian_dashboard.png)
 
 ## Tools & Tech Stack
 
