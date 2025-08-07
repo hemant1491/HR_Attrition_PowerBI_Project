@@ -54,8 +54,7 @@ This dashboard is a great example of how **Power BI + DAX + strong data modeling
 
 Hi, I'm Hemant, a data enthusiast passionate about turning raw data into meaningful business insights.
 
-**Let’s connect:**  
-- GitHub : [GitHub Profile](https://github.com/hemant1491)
+**Let’s connect:**
 - LinkedIn : [LinkedIn Profile](https://www.linkedin.com/in/hemant1491/)  
 - Email : hemant4dsci@gmail.com
 
